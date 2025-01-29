@@ -1,12 +1,12 @@
 /*styles.css */
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 2;
     padding: 0;
 }
 h1 {
-    color: #333;
+    color: #d8d8d8;
 }
 p {
-    color: #666;
+    color: #d8d8d8;
 }
