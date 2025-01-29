@@ -8,6 +8,9 @@ body {
     background-repeat: no-repeat;
 }
 h1, p {
-    color: #cbc5c5;
+    color: #aaa0a0;
     margin: 20px 20px;
+}
+p {
+    text-indent: 2em;
 }
