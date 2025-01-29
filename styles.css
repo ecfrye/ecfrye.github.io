@@ -1,6 +1,6 @@
 /*styles.css */
 body {
-    font-family: Georgia, sans-serif;
+    font-family: 'Times New Roman', sans-serif;
     margin: 0;
     height: 100vh;
     background: linear-gradient(to top, #02001f, #110d41);
@@ -8,11 +8,10 @@ body {
     background-repeat: no-repeat;
 }
 h1 {
-    color: #bcb8b8;
-    padding: 20px;
+    color: #cbc5c5;
     margin: 20px;
 }
 p {
-    color: #bcb8b8;
+    color: #cbc5c5;
     margin: 20px;
 }
