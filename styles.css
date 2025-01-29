@@ -1,12 +1,18 @@
 /*styles.css */
 body {
     font-family: Georgia, sans-serif;
-    margin: 20px;
-    padding: 20px;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to top, #02001f, #110d41);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1 {
     color: #bcb8b8;
+    padding: 20px;
+    margin: 20px;
 }
 p {
     color: #bcb8b8;
+    margin: 20px;
 }
