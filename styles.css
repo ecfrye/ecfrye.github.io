@@ -3,7 +3,7 @@ body {
     font-family: 'Times New Roman', sans-serif;
     margin: 0;
     height: 100vh;
-    background: linear-gradient(to top, #040313, #060235);
+    background: linear-gradient(to top, #040313, #1d1c24);
     background-size: cover;
     background-repeat: no-repeat;
 }
