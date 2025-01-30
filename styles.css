@@ -7,26 +7,46 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 h1, h2, p {
     color: #1a1a1a;
     margin: 20px 20px;
 }
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
 .image-container {
     text-align: left;
     margin: 10px;
     display: inline-block;
-    width: 150px;
-    height: 150px;
-    border: 1px solid #ccc;
-    border-radius: 50%;
+}
+
+.circular-image {
+    width: 145px; /* Adjust size as needed */
+    height: 145px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the image circular */
+    border: 1px solid #757575;
+}
+
+.text-container {
+    margin-left: 20px;
+}
+
+.no-indent {
+    text-indent: 0;
 }
 
 p {
     text-indent: 2em;
 }
+
 .colored-block {
-    background-color: #e2e2e2;
-    padding: 20px;
-    margin: 10px;
+    background-color: #c1bebe;
+    padding: 40px;
+    margin: 40px;
     border-radius: 10px;
 }
